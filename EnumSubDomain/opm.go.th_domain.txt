@@ -1,0 +1,8 @@
+www.opm.go.th
+webmail.opm.go.th
+ws.opm.go.th
+localhost.opm.go.th
+report.opm.go.th
+job.opm.go.th
+soap.opm.go.th
+psc.opm.go.th
